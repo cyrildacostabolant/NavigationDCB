@@ -1,0 +1,6 @@
+{
+  "name": "Cartographie Randonnée",
+  "description": "Application interactive de randonnée avec sélection de calques et export A4",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
